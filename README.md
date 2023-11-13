@@ -1,7 +1,6 @@
 # Detection-of-Anomalies-in-Multivariate-Time-Series
 
 **Research Paper Link:**
-
 https://arxiv.org/pdf/2308.03171.pdf
 
 
