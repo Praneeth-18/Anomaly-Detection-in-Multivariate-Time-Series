@@ -1,1 +1,1 @@
-# Anomaly-Detection-in-Multivariate-Time-Series
+# Detection-of-Anomalies-in-Multivariate-Time-Series
