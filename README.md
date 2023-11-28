@@ -4,7 +4,7 @@
 
 [**Medium Article link**](https://medium.com/@saipraneethk181200/detection-of-anomalies-in-multivariate-time-series-4acf4fef81e4)
 
-[**Youtube Video link**](https://youtu.be/MkNGtLwd1Is)
+[**Youtube Video link**](https://youtu.be/K3wF0Sb5xVM)
 
 [**Slideshare PPT Link**](https://www.slideshare.net/saipraneethk181200/short-story-on-anomaly-detection-in-multivariate-time-series)
 
